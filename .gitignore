@@ -1,0 +1,7 @@
+#Arquivo GitIgnore#
+
+scripts/*
+lib/*
+
+
+*.cfg
